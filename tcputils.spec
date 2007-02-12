@@ -1,5 +1,5 @@
 Summary:	A collection of programs to faciliate TCP programming in shell-scripts
-Summary(pl.UTF-8):   Zestaw programów ułatawiających programowanie TCP w skryptach powłoki
+Summary(pl.UTF-8):	Zestaw programów ułatawiających programowanie TCP w skryptach powłoki
 Name:		tcputils
 Version:	0.6.2
 Release:	1
