@@ -1,5 +1,5 @@
 Summary:	A collection of programs to faciliate TCP programming in shell-scripts
-Summary(pl):	Zestaw programów u³atawiaj±cych programowanie TCP w skryptach pow³oki
+Summary(pl.UTF-8):   Zestaw programÃ³w uÅ‚atawiajÄ…cych programowanie TCP w skryptach powÅ‚oki
 Name:		tcputils
 Version:	0.6.2
 Release:	1
@@ -21,17 +21,17 @@ The programs included in this release are:
 - tcplisten - general TCP/IP server
 - getpeername - get name of connected TCP/IP peer
 
-%description -l pl
-tcputils to zestaw programów u³atwiaj±cych programowanie TCP w
-skryptach pow³oki. Dodatkowo do³±czona jest ma³a biblioteka nieco
-u³atwiaj±ca tworzenie gniazd TCP/IP.
+%description -l pl.UTF-8
+tcputils to zestaw programÃ³w uÅ‚atwiajÄ…cych programowanie TCP w
+skryptach powÅ‚oki. Dodatkowo doÅ‚Ä…czona jest maÅ‚a biblioteka nieco
+uÅ‚atwiajÄ…ca tworzenie gniazd TCP/IP.
 
-Programy za³±czone w tej wersji to:
-- mini-inetd - ma³y program do przekazywania po³±czeñ TCP/IP
-- tcpbug - narzêdzie do ¶ledzenia po³±czeñ TCP/IP
-- tcpconnect - ogólny klient TCP/IP
-- tcplisten - ogólny serwer TCP/IP
-- getpeername - uzyskiwanie nazwy drugiej strony po³±czenia TCP/IP
+Programy zaÅ‚Ä…czone w tej wersji to:
+- mini-inetd - maÅ‚y program do przekazywania poÅ‚Ä…czeÅ„ TCP/IP
+- tcpbug - narzÄ™dzie do Å›ledzenia poÅ‚Ä…czeÅ„ TCP/IP
+- tcpconnect - ogÃ³lny klient TCP/IP
+- tcplisten - ogÃ³lny serwer TCP/IP
+- getpeername - uzyskiwanie nazwy drugiej strony poÅ‚Ä…czenia TCP/IP
 
 %prep
 %setup -q
